@@ -4,6 +4,7 @@ This is a personal project from 2021, made under the guidance of the CNVA HUB co
 (CNVA HUB is a high school club from Colegiul Național "Vasile Alecsandri" Iași that offers courses on C++, Web Development and Photography.)
 
 - There is a little preview of SocializeIt! website:
+  <p></p>
 ![image](https://github.com/user-attachments/assets/d989e6f6-1c7e-451c-b68a-20c01417ea69)
 ![image](https://github.com/user-attachments/assets/95464269-fab4-40ad-b396-7edab8ea39cd)
 ![image](https://github.com/user-attachments/assets/f4357b1e-2ab2-493b-a3fe-e8f2a970003d)
